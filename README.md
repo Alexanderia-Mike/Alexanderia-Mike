@@ -7,10 +7,6 @@
 - 🌱 I’m currently learning some front end languages like javascript and react native, and also studying machine learning algorithms implemented in python.
 - 👯 I’m looking to collaborate on intelligent small programs in WeChat
 - 🤔 I’m looking for help with machine learning
-- 💬 Ask me about which categories of chocolate you 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 💬 Ask me about foods and games
 
 [![Alexanderia's github stats](https://github-readme-stats.vercel.app/api?username=Alexanderia-Mike)](https://github.com/anuraghazra/github-readme-stats)
