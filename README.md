@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently doing undergraduate degree program in Electrical and Computer Engineering in UM-SJTU Joint Institute.
 - 🌱 I’m currently learning some front-end languages like javascript and react native, and also studying machine learning algorithms implemented in python.
-- 👯 I’m looking to collaborate on intelligent small programs in WeChat
+- 👯 I’m looking to collaborate on intelligent WeChat applets.
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about foods and games
 
